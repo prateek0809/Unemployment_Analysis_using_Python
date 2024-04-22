@@ -23,17 +23,17 @@ Unemployment is a key economic indicator that reflects the health of an economy 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Unemployment-Analysis-using-Python.git
+   git clone https://github.com/prateek0809/Unemployment_Analysis_using_Python.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Unemployment-Analysis-using-Python
+   cd Unemployment_Analysis_using_Python
    ```
 
 ## Usage
 1. Run the main analysis script:
    ```bash
-   python analyze_unemployment.py
+   python unemployment_analysis_using_python.py
    ```
 2. Follow the prompts to load data and choose analysis options.
 3. View the generated plots and analysis results.
