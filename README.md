@@ -33,7 +33,7 @@ Unemployment is a key economic indicator that reflects the health of an economy 
 ## Usage
 1. Run the main analysis script:
    ```bash
-   python unemployment_analysis_using_python.py
+   python unemployment analysis using python.ipynb
    ```
 2. Follow the prompts to load data and choose analysis options.
 3. View the generated plots and analysis results.
@@ -42,4 +42,4 @@ Unemployment is a key economic indicator that reflects the health of an economy 
 The project utilizes publicly available unemployment data from reliable sources such as the Bureau of Labor Statistics (BLS) or relevant government agencies. The data is stored in CSV format and included in the `data` directory.
 
 ## Contributing
-Contributions to this project are welcome! If you find any issues or have ideas for enhancements, feel free to open an issue or submit a pull request. Please adhere to the project's coding standards and follow the guidelines outlined in the `CONTRIBUTING.md` file.
+Contributions to this project are welcome! If you find any issues or have ideas for enhancements, feel free to open an issue or submit a pull request. Please adhere to the project's coding standards.
