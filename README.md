@@ -45,3 +45,4 @@ The project utilizes publicly available unemployment data from Kaggle, typically
 Contributions to this project are welcome! If you find any issues or have ideas for enhancements, feel free to open an issue or submit a pull request. Please adhere to the project's coding standards and include relevant documentation for your contributions.
 ```
 Feel free to customize it further according to your preferences and project specifics! Let me know if you need any more assistance.
+```
